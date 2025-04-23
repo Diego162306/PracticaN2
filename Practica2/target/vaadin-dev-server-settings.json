@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/juan/New cicle/practica2 (1)/practica2/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/juan/New cicle/practica2 (1)/practica2/src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/juan/New cicle/practica2 (1)/practica2/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/juan/New cicle/practica2 (1)/practica2/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/juan/New cicle/practica2 (1)/practica2/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/juan/New cicle/practica2 (1)/practica2/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/juan/New cicle/practica2 (1)/practica2/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/juan/New cicle/practica2 (1)/practica2/src/main/frontend/generated/jar-resources",
+  "themeName": "default",
+  "clientServiceWorkerSource": "/home/juan/New cicle/practica2 (1)/practica2/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
